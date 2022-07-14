@@ -57,7 +57,7 @@ const HeaderTwo = () => {
           <MenuItem url="/">
             <Image
               src="Group19.png"
-              display={{ base: "none", md: "block", sm: "none" }}
+              
             />
           </MenuItem>
 
